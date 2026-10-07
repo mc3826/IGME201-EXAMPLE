@@ -3,3 +3,6 @@ Hello :D
 This is a text file that I, Elizabeth created for the in-class workshop example thing
 
 This is Mitzi making changes!!!
+This is a text file that I created for the in-class workshop example thing
+
+- Elizabeth
